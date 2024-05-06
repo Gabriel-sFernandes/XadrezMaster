@@ -8,4 +8,4 @@
 
 - Jogabilidade Completa: Implementa todas as regras do xadrez, incluindo movimentos especiais como en passant e roque.
 
- -Como Jogar: Execute o programa inicia um novo jogo. Faça seus movimentos clicando nas peças e arrastando-as para as posições desejadas. O jogo verificará a validade dos movimentos e informará quando um jogador estiver em xeque ou xeque-mate. Continue jogando até que um jogador vença ou ocorra um empate por afogamento. Divirta-se jogando xadrez!
+- Como Jogar: Execute o programa inicia um novo jogo. Faça seus movimentos clicando nas peças e arrastando-as para as posições desejadas. O jogo verificará a validade dos movimentos e informará quando um jogador estiver em xeque ou xeque-mate. Continue jogando até que um jogador vença ou ocorra um empate por afogamento. Divirta-se jogando xadrez!
